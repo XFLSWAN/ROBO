@@ -483,7 +483,7 @@ async def lego(event):
 
 ᰔᩚ ʟᴏɢᴏ ᴄʀᴇᴀᴛᴇᴅ ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ ᰔᩚ
 
-✦ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ➛ [˹ 𝗦𝙴𝙽𝙾𝚁𝙸𝚃𝙰 ✘ 𝗥𝙾𝙱𝙾 ˼​](https://t.me/StrangerSuperbot)
+✦ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ➛ [˹˹𝐇ɪɴᴀ ✘ 𝐀ssɪsᴛᴀɴᴛ˼](https://t.me/Hina_X_robot)
 ━━━━━━━{BOT_NAME}━━━━━━━""",buttons=button_row
 )
         await pesan.delete()
