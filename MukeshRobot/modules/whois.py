@@ -26,7 +26,7 @@ infotext = (
     "❍ ʟᴀsᴛ ɴᴀᴍᴇ ➛ {last_name}\n"
     "❍ ᴜsᴇʀɴᴀᴍᴇ ➛ @{username}\n"
     "❍ ʟᴀsᴛ sᴇᴇɴ ➛ {last_online}\n\n"
-    "❍ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➛ [˹ 𝗦𝙴𝙽𝙾𝚁𝙸𝚃𝙰 ✘ 𝗥𝙾𝙱𝙾 ˼​](https://t.me/StrangerSuperbot)"
+    "❍ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➛ [˹ 𝐇ɪɴᴀ ✘ 𝐀ssɪsᴛᴀɴᴛ˼](https://t.me/Hina_X_robot)"
 )
 
 
