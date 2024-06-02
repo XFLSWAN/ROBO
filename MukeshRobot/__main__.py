@@ -90,7 +90,7 @@ buttons = [
         InlineKeyboardButton(text="• ᴀʙᴏᴜᴛ •", callback_data="mukesh_"),
     ],
     [
-        InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/SHIVANSH474"),
+        InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/botkild"),
         InlineKeyboardButton(text="• ꜱᴜᴘᴘᴏʀᴛ •", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
@@ -102,7 +102,7 @@ buttons = [
 
 roy = [
     [
-        InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/SHIVANSH474"),
+        InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/botkild"),
         InlineKeyboardButton(text="• ꜱᴜᴘᴘᴏʀᴛ •", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
@@ -413,7 +413,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                         InlineKeyboardButton(
                             text="ʜᴇʟᴘ ᴍᴇɴᴜ", callback_data="Main_help"
                         ),
-                        InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇs •", url="https://t.me/SHIVANSH474"),
+                        InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇs •", url="https://t.me/botkild"),
                     ],
                     [
                         InlineKeyboardButton(text="• ʜᴏᴍᴇ •", callback_data="mukesh_back"),
@@ -432,7 +432,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                             text="• ꜱᴜᴘᴘᴏʀᴛ •", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/SHIVANSH474"
+                            text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/botkild"
                         ),
                     ],
                     [
@@ -1047,7 +1047,7 @@ def donate(update: Update, context: CallbackContext):
 
         if OWNER_ID != 6762113050:
             update.effective_message.reply_text(
-                f"๏ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴩᴇʀ ᴏғ {dispatcher.bot.first_name} sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɪs [ɢɪᴛʜᴜʙ](https://t.me/SHIVANSH474)"
+                f"๏ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴩᴇʀ ᴏғ {dispatcher.bot.first_name} sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɪs [ɢɪᴛʜᴜʙ](https://t.me/botkild)"
                 f"\n\n๏ ʙᴜᴛ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴅᴏɴᴀᴛᴇ ᴛᴏ ᴛʜᴇ ᴩᴇʀsᴏɴ ᴄᴜʀʀᴇɴᴛʟʏ ʀᴜɴɴɪɴɢ ᴍᴇ : [ʜᴇʀᴇ]",
                 parse_mode=ParseMode.MARKDOWN,
 
@@ -1110,7 +1110,7 @@ def main():
                 caption=f"""
 ✦ㅤ{BOT_NAME} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ ✦
      •────────────────────•
-**❅ ᴍᴀᴅᴇ ʙʏ ➛ [sʜɪᴠᴀɴsʜ-xᴅ](https://t.me/SHIVANSH474)**
+**❅ ᴍᴀᴅᴇ ʙʏ ➛ [sʜɪɴᴜ-xᴅ](https://t.me/botkild)**
 **❅ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ ➛** `{y()}`
 **❅ ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ ➛** `{telever}`
 **❅ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ ➛** `{tlhver}`
