@@ -1,5 +1,5 @@
 <h2 align="center">
-    ─「 𝐌ᴇʟᴀɴɪᴀ 𝘅 𝐑ᴏʙᴏᴛ 」─
+    ─「 hina × assistant 」─
 
 </h2>
 
@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://graph.org/file/8b8c781e18e8597f45f56.jpg">
+  <img src="https://telegra.ph/file/3c3ab79fba0fa91a4ae8e.jpg">
 </p>
 
 
